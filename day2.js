@@ -112,8 +112,8 @@ console.log(e <= f); // will return true
 
 //4. Logical operators: used to combine multiple boolean expressions and return a boolean value
 /*a) Logical AND (&&): returns true if both operands are true. Example:*/
-let a=6;
-let b=7;
+let m=6;
+let babab=7;
 console.log(a > 5 && b > 5); // will return true because both conditions are true
 
 // conditional statements in JavaScript
